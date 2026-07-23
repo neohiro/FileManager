@@ -6,3 +6,8 @@
 File Manager in Python for Windows, Linux, and macOS
 
   <img width="796" height="579" alt="image" src="https://github.com/user-attachments/assets/f9f0d1f5-b1ee-4750-a63b-d367ffa9bc0e" />
+
+## 📦 Installation
+
+You can download the compiled standalone release for your operating system (Windows, macOS, or Linux) directly from the **[Releases](../../releases)** tab. No Python installation is required! Just download the .zip for your OS, extract, and run.
+
